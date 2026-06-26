@@ -1,16 +1,13 @@
 <h1 align="center">Hi there, I'm Pavan Kumar Mulagiri 👋</h1>
 
 <p align="center">
-    Final-year B.Tech CSE student | Aspiring Data Scientist / ML Engineer
+  Final-year B.Tech CSE student | Aspiring Data Scientist / ML Engineer
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:YOUR-EMAIL@example.com"><img
-            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://YOUR-PORTFOLIO-LINK"><img
-            src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,24 +47,18 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Health & Lifestyle Risk Prediction**](https://github.com/Pavankumar090903/Health-Lifestyle-Risk-Prediction-) | ML
-model that predicts health risks and gives wellness recommendations based on lifestyle and clinical data | Python,
-Jupyter Notebook |
-| [**Weather Application**](https://github.com/Pavankumar090903/Weather_Application) | A Python app that fetches and
-displays real-time weather information for any given city | Python |
-| [**Student Marks Predictor**](https://github.com/Pavankumar090903/Student-Marks-Model) | Predicts a student's marks
-based on the number of study hours using a regression model | Python, HTML |
-| [**Portfolio Website**](https://github.com/Pavankumar090903/Portfoilo_pavan) | My personal portfolio site showcasing
-my projects and skills | HTML, CSS |
+| [**Health & Lifestyle Risk Prediction**](https://github.com/Pavankumar090903/Health-Lifestyle-Risk-Prediction-) | ML model that predicts health risks and gives wellness recommendations based on lifestyle and clinical data | Python, Jupyter Notebook |
+| [**Weather Application**](https://github.com/Pavankumar090903/Weather_Application) | A Python app that fetches and displays real-time weather information for any given city | Python |
+| [**Student Marks Predictor**](https://github.com/Pavankumar090903/Student-Marks-Model) | Predicts a student's marks based on the number of study hours using a regression model | Python, HTML |
+| [**Portfolio Website**](https://github.com/Pavankumar090903/Portfoilo_pavan) | My personal portfolio site showcasing my projects and skills | HTML, CSS |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pavankumar090903&show_icons=true&theme=radical"
-        width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankumar090903&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavankumar090903&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankumar090903&theme=radical" width="48%"/>
 </p>
 
 ---
