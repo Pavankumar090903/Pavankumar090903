@@ -68,7 +68,7 @@ Recent graduate in B.Tech CSE  in **SVCET, Chittoor** (CGPA: **9.13**), passiona
 
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
-| B.Tech, Computer Science & Engineering | Sri Venkateswara College of Engineering & Technology, Chittoor | 2022 – 2026 | CGPA: 9.06 |
+| B.Tech, Computer Science & Engineering | Sri Venkateswara College of Engineering & Technology, Chittoor | 2022 – 2026 | CGPA: 9.13 |
 | Intermediate (MPC) | St. Joseph's Junior College, Kadapa | 2020 – 2022 | 826/1000 |
 | Secondary School (Class X) | Zilla Parishad High School, Mydukur | 2019 – 2020 | 578/600 |
 
